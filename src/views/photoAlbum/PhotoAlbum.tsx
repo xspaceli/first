@@ -1,7 +1,12 @@
 
 
+
+
 export default function PhotoAlbum() {
   return (
-    <div>PhotoAlbum</div>
+    <div> <div>PhotoAlbum  </div>
+    </div>
+   
   )
 }
+
